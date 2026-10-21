@@ -68,6 +68,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Nikke-DB Story/Roleplaying Generator](#nikke-db-storyroleplaying-generator)
 - [Novelcrafter](#novelcrafter)
 - [Octomind](#octomind)
+- [Omnara](#omnara)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
 - [OpenRouter MCP Multimodal](#openrouter-mcp-multimodal)
 - [openrouter-rs](#openrouter-rs)
@@ -622,6 +623,18 @@ Session-based AI development assistant CLI. MCP tool execution, multi-provider s
 `coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/muvon/octomind)
 
 [Documentation](https://octomind.run/docs/providers/openrouter)
+
+---
+
+### [Omnara](https://www.omnara.com)
+
+<img src="./apps/omnara/logo.png" alt="Omnara logo" width="64" height="64">
+
+The open-source managed agent platform: run durable AI agents with any model and any machine, from sandboxes to your own laptop, with MCP, skills, subagents, and human approvals. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.
+
+`productivity` `chat` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/omnara-ai/omnara)
+
+[Documentation](https://docs.omnara.com/organization/model-providers)
 
 ---
 

@@ -578,6 +578,20 @@
     "dateAdded": "2026-05-24"
   },
   {
+    "slug": "omnara",
+    "name": "Omnara",
+    "description": "The open-source managed agent platform: run durable AI agents with any model and any machine, from sandboxes to your own laptop, with MCP, skills, subagents, and human approvals. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.",
+    "url": "https://www.omnara.com",
+    "docs": "https://docs.omnara.com/organization/model-providers",
+    "tags": [
+      "productivity",
+      "chat",
+      "coding"
+    ],
+    "openSource": "https://github.com/omnara-ai/omnara",
+    "dateAdded": "2026-10-19"
+  },
+  {
     "slug": "openrouter-mcp-multimodal",
     "name": "OpenRouter MCP Multimodal",
     "description": "All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs — chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan).",
