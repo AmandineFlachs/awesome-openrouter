@@ -94,6 +94,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Stirrup](#stirrup)
 - [SurfMind](#surfmind)
 - [TypingMind](#typingmind)
+- [ViralMint](#viralmint)
 - [VT Code](#vt-code)
 - [Warden](#warden)
 
@@ -936,6 +937,18 @@ TypingMind is a powerful AI workspace for accessing top models from 18+ provider
 `chat`
 
 [Documentation](https://docs.typingmind.com/)
+
+---
+
+### [ViralMint](https://github.com/openclaw-easy/ViralMint)
+
+<img src="./apps/viralmint/logo.png" alt="ViralMint logo" width="64" height="64">
+
+Open-source app for short-video creators: scout trends, transcribe locally with Whisper, cut clips and turn scripts into captioned shorts. Paste your own OpenRouter key in Settings to run its chat agent, scripts and analysis on any model.
+
+`creative` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/openclaw-easy/ViralMint)
+
+[Documentation](https://github.com/openclaw-easy/ViralMint#-quick-start)
 
 ---
 

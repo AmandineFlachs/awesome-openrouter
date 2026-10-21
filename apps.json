@@ -900,6 +900,19 @@
     "dateAdded": "2026-08-06"
   },
   {
+    "slug": "viralmint",
+    "name": "ViralMint",
+    "description": "Open-source app for short-video creators: scout trends, transcribe locally with Whisper, cut clips and turn scripts into captioned shorts. Paste your own OpenRouter key in Settings to run its chat agent, scripts and analysis on any model.",
+    "url": "https://github.com/openclaw-easy/ViralMint",
+    "docs": "https://github.com/openclaw-easy/ViralMint#-quick-start",
+    "tags": [
+      "creative",
+      "productivity"
+    ],
+    "openSource": "https://github.com/openclaw-easy/ViralMint",
+    "dateAdded": "2026-10-17"
+  },
+  {
     "slug": "vtcode",
     "name": "VT Code",
     "description": "Semantic coding agent in the terminal",
