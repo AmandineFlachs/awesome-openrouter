@@ -56,6 +56,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [InternAgent](#internagent)
 - [Junie](#junie)
 - [Kilo Code](#kilo-code)
+- [Laminar](#laminar)
 - [Latitude](#latitude)
 - [Letta](#letta)
 - [LibreChat](#librechat)
@@ -482,6 +483,18 @@ An AI-powered coding assistant for VS Code that supports multiple AI providers a
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Kilo-Org/kilocode)
 
 [Documentation](https://kilo.ai/docs/providers/openrouter)
+
+---
+
+### [Laminar](https://laminar.sh)
+
+<img src="./apps/laminar/logo.png" alt="Laminar logo" width="64" height="64">
+
+Open-source observability for AI agents. Trace every OpenRouter call with prompts, model, tokens, cost and latency. Works with your own OpenRouter key.
+
+`productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/lmnr-ai/lmnr)
+
+[Documentation](https://laminar.sh/docs/integrations/openrouter)
 
 ---
 

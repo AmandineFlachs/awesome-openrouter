@@ -412,6 +412,19 @@
     "dateAdded": "2025-01-08"
   },
   {
+    "slug": "laminar",
+    "name": "Laminar",
+    "description": "Open-source observability for AI agents. Trace every OpenRouter call with prompts, model, tokens, cost and latency. Works with your own OpenRouter key.",
+    "url": "https://laminar.sh",
+    "docs": "https://laminar.sh/docs/integrations/openrouter",
+    "tags": [
+      "productivity",
+      "research"
+    ],
+    "openSource": "https://github.com/lmnr-ai/lmnr",
+    "dateAdded": "2026-10-07"
+  },
+  {
     "slug": "latitude",
     "name": "Latitude",
     "description": "Open-source LLM observability and evaluation. Broadcast your OpenRouter traces to Latitude to search sessions, catch failing behaviors, and run evaluations on real production traffic. Bring your own OpenRouter key.",
