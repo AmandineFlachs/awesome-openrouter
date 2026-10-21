@@ -46,6 +46,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Chorus](#chorus)
 - [Cline](#cline)
 - [Cloudflare AI Gateway](#cloudflare-ai-gateway)
+- [CoWork OS](#cowork-os)
 - [Dexto](#dexto)
 - [Fud AI](#fud-ai)
 - [GitBug](#gitbug)
@@ -359,6 +360,18 @@ Monitor, control, and optimize your AI applications.
 `productivity` `research`
 
 [Documentation](https://developers.cloudflare.com/ai-gateway/providers/openrouter/)
+
+---
+
+### [CoWork OS](https://coworkosapp.com)
+
+<img src="./apps/cowork-os/logo.png" alt="CoWork OS logo" width="64" height="64">
+
+Open-source desktop agent for macOS and Windows where every action is visible and approvable. Sign in with OpenRouter or bring your own key, then run coding, browser, document and inbox tasks with approvals, local memory and scheduled bots.
+
+`productivity` `coding` `chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/CoWork-OS/CoWork-OS)
+
+[Documentation](https://coworkosapp.com/docs/providers/#openrouter)
 
 ---
 
