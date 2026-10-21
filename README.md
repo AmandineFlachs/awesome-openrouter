@@ -635,7 +635,7 @@ Session-based AI development assistant CLI. MCP tool execution, multi-provider s
 
 `coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/muvon/octomind)
 
-[Documentation](https://octomind.run/docs/providers/openrouter)
+[Documentation](https://octomind.run/docs/usage/04-providers#bring-your-own-keys)
 
 ---
 
