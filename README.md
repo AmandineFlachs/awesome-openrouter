@@ -93,6 +93,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Spokenly](#spokenly)
 - [Stirrup](#stirrup)
 - [SurfMind](#surfmind)
+- [TraceRoot](#traceroot)
 - [TypingMind](#typingmind)
 - [ViralMint](#viralmint)
 - [VT Code](#vt-code)
@@ -925,6 +926,18 @@ Instant AI on the Web. SurfMind adds to your browser an AI chat sidebar that und
 `chat` `productivity`
 
 [Documentation](https://surfmind.ai/blog/how-to-use-openrouter-in-your-browser)
+
+---
+
+### [TraceRoot](https://traceroot.ai)
+
+<img src="./apps/traceroot/logo.png" alt="TraceRoot logo" width="64" height="64">
+
+Trace and debug AI agents with TraceRoot. Bring your own OpenRouter API key to choose the model that powers the TraceRoot AI agent.
+
+`coding`
+
+[Documentation](https://traceroot.ai/docs/ai-agent/byok)
 
 ---
 
